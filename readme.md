@@ -1,6 +1,6 @@
 # Steps to run the application:
 
-- Clone the IDMS repo on desktop using below command in Terminal
+- Clone the repo on desktop using below command in Terminal
 
       git clone git@github.com:codoholik/cust_webcrawler.git
 
@@ -15,7 +15,7 @@
 - Activate the environment
 
       source venv/bin/activate (for linux)
-      venv\Scripts\activate (for windows) 
+      venv\Scripts\activate (for windows)
 
 - Install requirements
 

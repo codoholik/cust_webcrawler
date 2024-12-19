@@ -26,3 +26,5 @@
 - start the crawler
 
       python crawler.py <domains_file_path> <comma_sep_patterns>
+
+- At last you will have a `output.txt` in same dir as crawler.py exists.
